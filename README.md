@@ -2,7 +2,7 @@
 
 This translate english text into minion language
 
-## check here https://iptracking.netlify.app/
+## check here https://minionchat.netlify.app/
 
 ![image](/assets/finalapp.png)
 
